@@ -37,6 +37,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jessie_schulze-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jessie-schulze/)](https://instagram.com/jessie_schulze)
 [![Gmail Badge](https://img.shields.io/badge/-JessieSchulze-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seira91@gmail.com)](mailto:seira91@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/Shayalla)  <img src="https://img.shields.io/github/followers/jessie-schulze?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Shayalla)  <img src="https://img.shields.io/github/followers/Shayalla?label=Follow" style=" float:left, margin-right:10px" />
 
 ⭐️ From [Jessie](https://github.com/Shayalla)
